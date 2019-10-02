@@ -1,0 +1,11 @@
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/bin/Debug/netcoreapp3.0/Projects
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/bin/Debug/netcoreapp3.0/Projects.deps.json
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/bin/Debug/netcoreapp3.0/Projects.runtimeconfig.json
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/bin/Debug/netcoreapp3.0/Projects.runtimeconfig.dev.json
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/bin/Debug/netcoreapp3.0/Projects.dll
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/bin/Debug/netcoreapp3.0/Projects.pdb
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/obj/Debug/netcoreapp3.0/Projects.csprojAssemblyReference.cache
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/obj/Debug/netcoreapp3.0/Projects.AssemblyInfoInputs.cache
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/obj/Debug/netcoreapp3.0/Projects.AssemblyInfo.cs
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/obj/Debug/netcoreapp3.0/Projects.dll
+/Users/Charlesdavidson/Desktop/Restaurant365-Code-Challenge---String-Calculator/obj/Debug/netcoreapp3.0/Projects.pdb
