@@ -26,7 +26,7 @@ namespace R365
             
                     bool success = Int32.TryParse(value, out number);
 
-                    // if number was parsed and is not a negative or 0 then throw an exception. 
+                    // if number was parsed and over 1000, remove it. 
                     if (success && number <= 1000)
                     {
                             totalCount += number;        
