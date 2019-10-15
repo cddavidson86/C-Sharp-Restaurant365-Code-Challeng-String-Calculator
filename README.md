@@ -1,4 +1,4 @@
 # Restaurant365-Code-Challenge-String-Calculator
 A challenge for R365 in C#.
 
-Clone the repo and type "dotnet run."
+Clone the repo and type "dotnet run" in the console within the directory.
